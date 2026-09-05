@@ -84,39 +84,6 @@ https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccda
 https://cdn-3.pishow.tv/live/1481/master.m3u8
 
 
-#English News
-
-#EXTINF:-1 tvg-id="Al Jazeera HD" tvg-logo="https://i.imgur.com/JyKBuhT.jpeg" group-title="English News",Al Jazeera HD
-https://live-hls-apps-aje-fa.getaj.net/AJE/index.m3u8
-#EXTINF:-1 tvg-id="BBC News HD" tvg-logo="https://i.imgur.com/JzSl1sK.jpeg" group-title="English News",BBC News HD
-https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
-#EXTINF:-1 tvg-id="CNN" tvg-logo="https://i.postimg.cc/HWfYF3XB/cnn.png" group-title="English News",CNN HD
-http://olxi0fko.ukminlt.fun/iptv/HV7NY9RSQCHYZK/6538/index.m3u8
-#EXTINF:-1 tvg-id="Sky News HD" tvg-logo="https://i.imgur.com/nYRPdry.jpeg" group-title="English News",Sky News HD
-https://dbrb49pjoymg4.cloudfront.net/10001/99951223/hls/master.m3u8?ads.xumo_channelId=99951223
-#EXTINF:-1 tvg-id="India Today" tvg-logo="https://i.imgur.com/tEgjSyj.jpeg" group-title="English News",India Today
-https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 tvg-id="Times Now" tvg-logo="https://i.imgur.com/nVAFi0b.jpeg" group-title="English News",Times Now
-http://tv.cloudcdn.me:80/live.ts?channelId=204&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="NDTV 24x7" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678-b/ndtv24x7/master.m3u8
-#EXTINF:-1 tvg-id="TOI Global" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",Times Of India Global
-https://live.sli.ke/live/npnhm84gz9/master.m3u8
-#EXTINF:-1 tvg-id="TOI Bharat" tvg-logo="https://i.postimg.cc/tTbdjXhF/TOI.png" group-title="English News",TOI Bharat
-https://live.sli.ke/live/npn5cangzo/master.m3u8
-#EXTINF:-1 tvg-id="Wion" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",Wion
-http://tv.cloudcdn.me:80/live.ts?channelId=85499&uid=13298&deviceMac=00:1A:79:31:34:0E
-#EXTINF:-1 tvg-id="NDTV Profit" tvg-logo="https://i.postimg.cc/NF494Cw8/NDTV_Profit.jpg" group-title="English News",NDTV Profit
-https://ndtvprofit.akamaized.net/hls/live/2107404/ndtvprofit/master_1.m3u8
-#EXTINF:-1 tvg-id="Republic TV" tvg-logo="https://i.postimg.cc/HL8C9JCb/Republic-TV.png" group-title="English News",Republic TV
-https://vg-republictvlive.akamaized.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-366023/main.m3u8
-#EXTINF:-1 tvg-id="ETNow"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fa/ETNOW.png/revision/latest?cb=20230126171607" group-title="English News",ET Now (720p)
-#EXTVLCOPT:http-referrer=https://www.timesnownews.com/
-https://dztlhgid9me95.cloudfront.net/live-tv/Vidgyor/etnow/etnow_master.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18.in@SD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ee/CNBC-TV18_2026.svg/revision/latest?cb=20260519003919" group-title="English News",CNBC TV18 (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_TV18_NW18_MOB/output01/index.m3u8
-#EXTINF:-1 tvg-id="CNBCTV18PrimeHD.in@SD"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/CNBC-TV18_Prime_HD.jpg/revision/latest?cb=20240314174558" group-title="English News",CNBC TV18 Prime HD (1080p)
-https://n18syndication.akamaized.net/bpk-tv/CNBC_Tv18_Prime_HD_NW18_MOB/output01/index.m3u8
 
 #Tamil
 
@@ -224,29 +191,6 @@ http://tv.cloudcdn.me:80/live.ts?channelId=44637&uid=13298&deviceMac=00:1A:79:31
 #EXTINF:-1 tvg-id="Discovery Channel" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Discovery_Channel_Eng.png?width=200" group-title="Documentary",Discovery Channel
 http://tv.cloudcdn.me:80/live.ts?channelId=57776&uid=13298&deviceMac=00:1A:79:31:34:0E
 
-# Devotional
-#EXTINF:-1 tvg-id="SVBC3.in@SD" tvg-name="SVBC3" tvg-logo="https://yt3.ggpht.com/Uqg8i6C1gw__d0JVhNzA9dX6vzbj-G-MdR4bdjsEP5jNKx_Yc17QCc86Xeknf6uQM_py1Uki=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Devotional",SVBC 3
-https://player.mslivestream.net/svbc/2e628d7e1b65d31254fd7705ff7ee64d.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC4.in@SD"tvg-name="SVBC4" tvg-logo= "https://yt3.ggpht.com/pZU4x_YFGctn7r4sKrTQvgb99XGiAJl3KBmf1Ee5rFkuvRYhHPf0YCbcshtBdFI7rA1J269SwQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Devotional",SVBC 4
-https://player.mslivestream.net/mslive/13a2927187b9700ae7ea82d7841d5b68.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="SVBC.in@SD" tvg-name="SVBC" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mfAUc7DTGQgkazQJiDcL764YmHHKo2gWxxLtAALOIJm4I=s160-c-k-c0x00ffffff-no-rj" group-title="Devotional",SVBC
-https://player.mslivestream.net/telugu/5d076e5c3d34cb8bb08e54a4bb7e223e.sdp/playlist.m3u8
-
-# Tamil News
-#EXTINF:-1 tvg-id="News18TamilNadu.in@SD" tvg-name="News18 Tamil Nadu" tvg-logo="https://yt3.ggpht.com/wrLMDJVxwbLw_lvrFp16aTKGmRLZdXNrrT0xF9mgljCnZBYK5uJX3fu0TJ2U7EmIx8BP3P8wsQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News18 Tamil Nadu
-https://n18syndication.akamaized.net/bpk-tv/News18_Tamil_Nadu_NW18_MOB/output01/master.m3u8
-#EXTINF:-1 tvg-id="News7Tamil.in@SD" tvg-name="News 7 Tamil" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_mBbli8A0yvLlMmketEE-Mftk1c05S4Zhh_urW83cQcz7M=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News 7 Tamil
-https://segment.yuppcdn.net/240122/news7/playlist.m3u8
-#EXTINF:-1 tvg-id="PuthiyaThalaimurai.in@SD" tvg-name="Puthiya Thalaimurai" tvg-logo="https://yt3.ggpht.com/tr4c3DtiSxbqXbPCylpjFpveWiZzXjeqXpRPvKVXt-KcbQpyTmBb2pmhtORnj6l1negBysL4=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",Puthiya Thalaimurai
-https://segment.yuppcdn.net/240122/puthiya/playlist.m3u8
-#EXTINF:-1 tvg-id="ThanthiTV.in@SD" tvg-name="Thanthi TV" tvg-logo="https://yt3.ggpht.com/lyUdWpaVvOJQgjI0dfBW29q0PBAFSltmwNX73AYrsbBRt7gFzaALiFzxRYqRWcjhDdQiOSXCog=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",Thanthi TV
-https://cdn-3.pishow.tv/live/1612/master.m3u8
-#EXTINF:-1 tvg-id="MalaiMurasuTV.in@SD" tvg-name="Malai Murasu TV" tvg-logo="https://yt3.ggpht.com/MYY8qsepbnvmjPstaoFTAtCTjOjWbcsOD1CJuSKH9nkSyP_5tKYxwG-TJQrDRsKvtHIO_R0quQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",Malai Murasu TV
-https://amg17783-amg17783c1-amgplt0173.playout.now3.amagi.tv/playlist/amg17783-amg17783c1-amgplt0173/playlist.m3u8
-#EXTINF:-1 tvg-id="NewsJ.in@SD" tvg-name="News J" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m-IRcF_E93ARycinoBvNoPC_xjo8iVtB3xGOZvx6GgsQ=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",News J
-https://cdn-3.pishow.tv/live/1279/master.m3u8
-#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-name="DD TamilV" tvg-logo="https://yt3.ggpht.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Tami News",DD Tamil
-https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 
 # Music
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-name="B4UMusic" tvg-logo="https://yt3.ggpht.com/aYX2p4oyclx6Z-6UfYUDhPGyMXP8cEiDuWEjA3KDVl5GD-kLZgvaQSSR38pyJTIztLEzMDo_KA=s176-c-k-c0x00ffffff-no-rj-mo" group-title="Music",B4U Music
@@ -266,63 +210,6 @@ https://galaxyott.live/hls/sanaplus.m3u8
 #EXTINF:-1 tvg-id="SanaTV.in@SD" tvg-name="Sana" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/sanatv.png" group-title="Music",Sana TV
 https://galaxyott.live/hls/sanatv.m3u8
 
-# Doordarshan
-#EXTINF:-1 tvg-id="Gyandarshan.in@SD" tvg-name="Gyandarshan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan" tvg-name="Tunes6" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",Gyandarshan
-https://cdn-6.pishow.tv/live/14/master.m3u8
-#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-name="Gyandarshan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Arun Prabha (360p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
-#EXTINF:-1 tvg-id="DDAssam.in@SD" tvg-name="DDAssam" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Assam
-https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
-#EXTINF:-1 tvg-id="DDBharati.in@SD" tvg-name="DDBharati" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Bharati
-https://cdn-1.pishow.tv/live/10/master.m3u8
-#EXTINF:-1 tvg-id="DDBihar.in@SD" tvg-name="DDBihar" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Bihar
-https://cdn-4.pishow.tv/live/35/master.m3u8
-#EXTINF:-1 tvg-id="DDChhattisgarh.in@SD" tvg-name="DDChhattisgarh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Chhattisgarh
-https://cdn-1.pishow.tv/live/15/master.m3u8
-#EXTINF:-1 tvg-id="DDGirnar.in@SD" tvg-name="DDChhattisgarh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Girnar
-https://d2lk5u59tns74c.cloudfront.net/out/v1/558fdb9aebb54bb5bbbf0ced03686148/index.m3u8
-#EXTINF:-1 tvg-id="DDGoa.in@SD" tvg-name="DDGoa" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Goa
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/e5b9db1cc184406bb97159da2f120f91/index.m3u8
-#EXTINF:-1 tvg-id="DDHaryana.in@SD" tvg-name="DDHaryana" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Haryana
-https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
-#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-name="DDHimachalPradesh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Himachal Pradesh
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
-#EXTINF:-1 tvg-id="DDIndia.in@SD" tvg-name="DDIndia" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD India
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-#EXTINF:-1 tvg-id="DDKisan.in@SD" tvg-name="DDKisan" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Kisan
-https://cdn-6.pishow.tv/live/9/master.m3u8
-#EXTINF:-1 tvg-id="DDMadhyaPradesh.in@SD" tvg-name="DDMadhyaPradesh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Madhya Pradesh
-https://cdn-1.pishow.tv/live/31/master.m3u8
-#EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-name="DDManipur" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Manipur
-https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
-#EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-name="DDManipur" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Meghalaya
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
-#EXTINF:-1 tvg-id="DDNagaland.in@SD" tvg-name="DDNagaland" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Nagaland
-https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
-#EXTINF:-1 tvg-id="DDNational.in@HD" tvg-name="DDNational" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD National HD
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in@SD" tvg-name="DDNews" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD News
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
-#EXTINF:-1 tvg-id="DDOdia.in@SD" tvg-name="DDOdia" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Odia
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ef4ea632b77a480ebd77106968aa99a9/index.m3u8
-#EXTINF:-1 tvg-id="DDSahyadri.in@SD" tvg-name="DDSahyadri" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Sahyadri
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/index.m3u8
-#EXTINF:-1 tvg-id="DDSaptagiri.in@SD" tvg-name="DDSaptagiri" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Saptagiri
-https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
-#EXTINF:-1 tvg-id="DDSports.in@SD" tvg-name="DDSports" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Sports
-https://cdn-6.pishow.tv/live/13/master.m3u8
-#EXTINF:-1 tvg-id="DDTripura.in@SD" tvg-name="DDTripura" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Tripura
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
-#EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-name="DDUrdu" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Urdu
-https://cdn-4.pishow.tv/live/8/master.m3u8
-#EXTINF:-1 tvg-id="DDUttarPradesh.in@SD" tvg-name="DDUttarPradesh" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Uttar Pradesh
-https://cdn-1.pishow.tv/live/36/master.m3u8
-#EXTINF:-1 tvg-id="DDUttarakhand.in@SD" tvg-name="DDUttarakhand" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Uttarakhand
-https://cdn-1.pishow.tv/live/17/master.m3u8
-#EXTINF:-1 tvg-id="DDChandana.in@SD" tvg-name="DDUttarakhand" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Chandana (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/0c980455d2fb4b69bcc6235745ee6039/index.m3u8
-#EXTINF:-1 tvg-id="DDYadagiri.in@SD" tvg-logo="https://akm-img-a-in.tosshub.com/businesstoday/images/story/202404/662375b1d10f3-doordarshan-changes-it-logo-colour-to-saffron-204205998-16x9.jpg" group-title="Doordarshan",DD Yadagiri (504p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/c89fa6d6f5864ac29670d6f91cb7e32a/index.m3u8
 
 # Tamil GEC
 #EXTINF:-1 tvg-id="SMCVTV" tvg-name="SMCVTV" tvg-logo="https://play-lh.googleusercontent.com/QHY-UJodq8HOSLN6waYq91yJMCsu1Cq5toOX6PRffCrE2A8sl-MOdifsRgmq-rl3eA=w512-h960-rw" group-title="Tamil GEC",SMCV TV
@@ -363,9 +250,6 @@ https://play.applelive.in/jctv/jctv.m3u8
 #EXTINF:-1 tvg-id="JayaamTV" tvg-name="JayaamTV" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1732251489_Jayaam%2520copy.png&w=1920&q=75" group-title="Tamil Music",Jayaam TV
 https://app.ashokadigital.net/app/67a779e9/index.m3u8
 
-# FM Stations
-#EXTINF:-1 tvg-id="RadioMango" tvg-name="ClubFM" tvg-logo="https://yt3.googleusercontent.com/Z8mLUr5CaR9js_9eXy1gS4wg4y-UW2eRPcnIAsZBCyjyy3DzcGxWoo8Y-Ygs9SN8EpKRbe0rAD8=s900-c-k-c0x00ffffff-no-rj" group-title="FM Stations",RadioMango
-https://listen.openstream.co/4635/audio
 
 # Tamil Movies
 #EXTINF:-1 tvg-id="TharunMovies" tvg-name="TharunMovies" tvg-logo="https://www.ashokadigital.net/_next/image?url=https%3A%2F%2Flivetv.ashokadigital.net%2Fupload%2Flogo%2F1739599242_IMG_20250215_111845_234.png&w=1920&q=75" group-title="Tamil Movies",Tharun Movies
